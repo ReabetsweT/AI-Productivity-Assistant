@@ -1,0 +1,6 @@
+openai
+google-generative-ai
+python-dotenv
+flask
+requests
+pytest
